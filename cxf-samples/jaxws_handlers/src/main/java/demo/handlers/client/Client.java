@@ -48,6 +48,7 @@ public final class Client {
 
         if (args.length == 0) {
             System.err.println("please provide wsdl");
+            System.err.println("please provide wsdl");
             System.exit(0);
         }
 
