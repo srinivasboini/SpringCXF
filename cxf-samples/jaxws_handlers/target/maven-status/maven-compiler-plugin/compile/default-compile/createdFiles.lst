@@ -1,0 +1,13 @@
+demo\handlers\common\LoggingHandler.class
+org\apache\handlers\types\ObjectFactory.class
+org\apache\handlers\types\AddNumbers.class
+org\apache\handlers\types\AddNumbersResponse.class
+org\apache\handlers\AddNumbers.class
+org\apache\handlers\types\FaultDetail.class
+demo\handlers\server\Server.class
+demo\handlers\client\Client.class
+demo\handlers\server\AddNumbersImpl.class
+org\apache\handlers\AddNumbersFault.class
+org\apache\handlers\types\package-info.class
+demo\handlers\common\SmallNumberHandler.class
+org\apache\handlers\AddNumbersService.class

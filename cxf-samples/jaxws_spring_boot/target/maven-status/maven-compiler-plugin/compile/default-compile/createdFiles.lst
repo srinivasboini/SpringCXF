@@ -1,0 +1,5 @@
+sample\ws\SampleWsApplicationClient.class
+sample\ws\SampleWsApplication.class
+sample\ws\service\Hello.class
+sample\ws\service\HelloPortImpl.class
+sample\ws\WebServiceConfig.class
